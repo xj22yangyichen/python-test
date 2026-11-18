@@ -1,0 +1,19 @@
+# IDE files
+.idea/
+.vscode/
+.cache/
+cmake-build-debug/
+build/
+gen/
+antlr-playground/.antlr
+resources/.antlr
+# Testcases
+testcases/hidden-testcases
+3350
+3350.zip
+
+myimple.py
+#AI
+.claude/
+.cc-history/
+AGENTS.md
